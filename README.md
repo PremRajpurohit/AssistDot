@@ -2,7 +2,7 @@
 
 <h1>Guide Slider (Splash Screen)</h1>
 
-https://user-images.githubusercontent.com/33456378/49689157-3ed00180-fb43-11e8-9872-42a793194b7e.png
+![screenshot_1525675433](https://user-images.githubusercontent.com/33456378/49689157-3ed00180-fb43-11e8-9872-42a793194b7e.png)
 
 ![screenshot_1525675433](https://user-images.githubusercontent.com/33456378/49689158-3ed00180-fb43-11e8-81ce-e9cac9b3a501.png)
 
