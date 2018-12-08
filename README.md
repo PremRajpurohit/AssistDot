@@ -2,9 +2,12 @@
 
 <h1>Guide Slider (Splash Screen)</h1>
 
-![screenshot_1525675427](https://user-images.githubusercontent.com/33456378/49689157-3ed00180-fb43-11e8-9872-42a793194b7e.png)
+<img src="https://user-images.githubusercontent.com/33456378/49689157-3ed00180-fb43-11e8-9872-42a793194b7e.png" alt="Smiley face" height="42" width="42">
+
 ![screenshot_1525675433](https://user-images.githubusercontent.com/33456378/49689158-3ed00180-fb43-11e8-81ce-e9cac9b3a501.png)
+
 ![screenshot_1525675436](https://user-images.githubusercontent.com/33456378/49689159-3ed00180-fb43-11e8-90b2-664db9717e3c.png)
+
 ![screenshot_1525675439](https://user-images.githubusercontent.com/33456378/49689160-3f689800-fb43-11e8-9828-873033b56ac4.png)
 
 <h1>Main Activity View (Main Interface)</h1>
@@ -30,7 +33,6 @@
 <h1>Task Edit Activity</h1>
 
 ![screenshot_1526920887](https://user-images.githubusercontent.com/33456378/49689258-dc780080-fb44-11e8-8cc4-d8286bfd3fef.png)
-
 
 
 
